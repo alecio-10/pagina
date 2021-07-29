@@ -1,3 +1,3 @@
 function mensaje(){
-	alert("Hola")
+	alert("Hola Mundo!")
 }
